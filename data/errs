@@ -1,0 +1,2 @@
+/Users/alexcassell/Desktop/CLMS/LING567/sin/data/make_item.py:383: DeprecationWarning: 'U' mode is deprecated
+  tslines = open(tsf, 'rU', encoding=enc).readlines()
